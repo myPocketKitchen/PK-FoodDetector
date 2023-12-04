@@ -10,7 +10,7 @@ Pocket Kitchen is a system for managing food more efficiently in the home toward
 ## System Architecture
 While similar to an API, these scripts are running locally and populating a database. The database is then accessed by the Pocket Kitchen app to display the data.
 
-<img src="https://github.com/myPocketKitchen/PocketKitchen-API/assets/79009541/55a57471-1ed8-4904-a675-13b55e54bb8f" width="600">
+<img src="https://github.com/myPocketKitchen/PK-FoodDetector/assets/79009541/925e18b6-0a6d-419e-a428-f41df2974bf4" width="600">
 
 ## Requirements
 
