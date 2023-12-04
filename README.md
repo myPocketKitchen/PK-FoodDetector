@@ -5,7 +5,7 @@ Pocket Kitchen is a system for managing food more efficiently in the home toward
 - **Customizable** - Pocket Kitchen is designed to be customizable. For example, the user can add their own model trained on their own objects.
 - **Open Source** - Pocket Kitchen is open source, so anyone can contribute to the project.
 
-<img src="https://github.com/myPocketKitchen/PocketKitchen-API/assets/79009541/c1bb578f-e34d-4ed1-bd5e-82059b128ebd" width="600">
+<img src="https://github.com/myPocketKitchen/PK-FoodDetector/assets/79009541/ac5485a9-2357-4d39-92ba-5f24e1f23b3a" width="600">
 
 ## System Architecture
 While similar to an API, these scripts are running locally and populating a database. The database is then accessed by the Pocket Kitchen app to display the data.
