@@ -21,7 +21,7 @@ While similar to an API, these scripts are running locally and populating a data
 - Pi Camera (We use HD Camera Module V2, but any Pi camera should work. Autofocus is recommended.)
 - [3D-Printed Camera Mount](https://www.thingiverse.com/thing:4420496)
 
-<img src="https://github.com/myPocketKitchen/PocketKitchen-API/assets/79009541/7374fd10-497a-4e36-b763-45af3437dcb9" width="600">
+<img src="https://github.com/myPocketKitchen/PK-FoodDetector/assets/79009541/5cc1f8e0-ca51-486b-b50c-384897b4fcde" width="600">
 
 ### Model
 - You can use the enclosed model or create your own custom fine-tune EfficientDet-Lite0 model from [TensorFlow Edge Object Detection](https://colab.research.google.com/github/google-coral/tutorials/blob/master/retrain_efficientdet_model_maker_tf2.ipynb)
